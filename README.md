@@ -1,4 +1,4 @@
-- Hi, I’m @pankajgarkoti, a physics undergrad.
+- Hi, I’m @pankajgarkoti, a physics undergrad with interest in theoretical and computational physics.
 - I’m interested in computational physics and other numerical applications of modern programming languages.
 - Looking to collaborate on computational physics/mathematics codes that use Python / Julia / C++ / Fortran.
 - Reach me via email at : garkotipankaj [at] gmail.com
