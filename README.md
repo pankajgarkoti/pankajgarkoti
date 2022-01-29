@@ -1,4 +1,4 @@
 - Hi, I’m @pankajgarkoti, a 3rd year physics undergrad.
 - I’m interested in computational physics and back-end web development.
-- Looking to collaborate on computational physics/mathematics codes that use Python / C++ / Fortran.
+- Looking to collaborate on computational physics/mathematics projects that use Python / C++ / Fortran / Julia.
 - Reach me via email at : garkotipankaj [at] gmail.com
