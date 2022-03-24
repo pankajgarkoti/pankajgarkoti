@@ -1,4 +1,3 @@
-- Hi, I’m Pankaj Garkoti, a 3rd year physics undergrad from BCAS, Delhi Univerisity
-- I’m interested in physics, computation and back-end web development
-- Looking to collaborate on projects that use Python / C++ / Fortran
-- Reach me via email at : garkotipankaj [at] gmail.com
+- Hi, I’m Pankaj Garkoti, a 3rd year physics undergrad from BCAS, Delhi University.
+- I’m interested in physics, computation and software development.
+- Reach me via email : garkotipankaj [at] gmail.com
