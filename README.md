@@ -1,3 +1,3 @@
-- Hi, I’m Pankaj Garkoti, a 3rd year physics undergrad from BCAS, Delhi University.
-- I’m interested in physics, computation and software development.
+- Hi, I’m Pankaj Garkoti, a physics student turned programmer.
+- I do web development and server-side scripting.
 - Reach me via email : garkotipankaj [at] gmail.com
