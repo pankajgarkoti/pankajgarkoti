@@ -1,3 +1,3 @@
 - Hi, I’m Pankaj Garkoti, a physics student turned programmer.
-- I do web development and server-side scripting.
+- I do web, mobile and server stuff.
 - Reach me via email : garkotipankaj [at] gmail.com
