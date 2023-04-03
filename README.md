@@ -1,4 +1,3 @@
 - Hi, I’m Pankaj Garkoti.
 - I do web, mobile and server stuff.
-- Flutter, Python and JS mostly...
 - Reach me via email : garkotipankaj [at] gmail.com
