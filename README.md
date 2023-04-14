@@ -1,3 +1,0 @@
-- Hi, I’m Pankaj Garkoti.
-- I do web, mobile and server stuff.
-- Reach me via email : garkotipankaj [at] gmail.com
